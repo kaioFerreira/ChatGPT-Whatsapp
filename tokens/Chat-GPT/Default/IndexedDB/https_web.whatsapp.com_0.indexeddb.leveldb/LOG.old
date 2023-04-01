@@ -1,0 +1,60 @@
+2023/04/01-19:14:52.576 445a7 Reusing MANIFEST /home/alerta/Área de Trabalho/ChatGPT-Whatsapp/tokens/Chat-GPT/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/01-19:14:52.577 445a7 Recovering log #1587
+2023/04/01-19:14:52.611 445a7 Reusing old log /home/alerta/Área de Trabalho/ChatGPT-Whatsapp/tokens/Chat-GPT/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001587.log 
+2023/04/01-19:15:08.726 445a7 Level-0 table #1626: started
+2023/04/01-19:15:08.747 445a7 Level-0 table #1626: 1175436 bytes OK
+2023/04/01-19:15:08.750 445a7 Delete type=0 #1587
+2023/04/01-19:15:08.973 445a7 Compacting 1@0 + 1@1 files
+2023/04/01-19:15:09.002 445a7 Generated table #1627@0: 17116 keys, 407834 bytes
+2023/04/01-19:15:09.004 445a7 Generated table #1628@0: 382 keys, 39658 bytes
+2023/04/01-19:15:09.007 445a7 Generated table #1629@0: 484 keys, 13614 bytes
+2023/04/01-19:15:09.009 445a7 Generated table #1630@0: 543 keys, 16071 bytes
+2023/04/01-19:15:09.009 445a7 Compacted 1@0 + 1@1 files => 477177 bytes
+2023/04/01-19:15:09.014 445a7 compacted to: files[ 0 4 37 0 0 0 0 ]
+2023/04/01-19:15:09.015 445a7 Delete type=2 #1592
+2023/04/01-19:15:09.015 445a7 Delete type=2 #1626
+2023/04/01-19:15:27.306 445a7 Compacting 1@1 + 10@2 files
+2023/04/01-19:15:27.361 445a7 Generated table #1631@1: 48938 keys, 2244775 bytes
+2023/04/01-19:15:27.392 445a7 Generated table #1632@1: 33280 keys, 2196090 bytes
+2023/04/01-19:15:27.408 445a7 Generated table #1633@1: 3096 keys, 2156440 bytes
+2023/04/01-19:15:27.424 445a7 Generated table #1634@1: 2790 keys, 2154232 bytes
+2023/04/01-19:15:27.441 445a7 Generated table #1635@1: 2809 keys, 2154995 bytes
+2023/04/01-19:15:27.456 445a7 Generated table #1636@1: 2717 keys, 2160279 bytes
+2023/04/01-19:15:27.471 445a7 Generated table #1637@1: 2043 keys, 2151676 bytes
+2023/04/01-19:15:27.488 445a7 Generated table #1638@1: 3651 keys, 2153143 bytes
+2023/04/01-19:15:27.505 445a7 Generated table #1639@1: 3306 keys, 2154277 bytes
+2023/04/01-19:15:27.522 445a7 Generated table #1640@1: 3161 keys, 2161650 bytes
+2023/04/01-19:15:27.524 445a7 Generated table #1641@1: 79 keys, 85027 bytes
+2023/04/01-19:15:27.524 445a7 Compacted 1@1 + 10@2 files => 21772584 bytes
+2023/04/01-19:15:27.527 445a7 compacted to: files[ 0 3 38 0 0 0 0 ]
+2023/04/01-19:15:27.528 445a7 Delete type=2 #1599
+2023/04/01-19:15:27.528 445a7 Delete type=2 #1595
+2023/04/01-19:15:27.528 445a7 Delete type=2 #1602
+2023/04/01-19:15:27.528 445a7 Delete type=2 #1600
+2023/04/01-19:15:27.528 445a7 Delete type=2 #1597
+2023/04/01-19:15:27.528 445a7 Delete type=2 #1593
+2023/04/01-19:15:27.528 445a7 Delete type=2 #1627
+2023/04/01-19:15:27.528 445a7 Delete type=2 #1596
+2023/04/01-19:15:27.528 445a7 Delete type=2 #1594
+2023/04/01-19:15:27.528 445a7 Delete type=2 #1601
+2023/04/01-19:15:27.528 445a7 Delete type=2 #1598
+2023/04/01-19:15:27.622 445a7 Compacting 1@1 + 8@2 files
+2023/04/01-19:15:27.650 445a7 Generated table #1642@1: 2682 keys, 2148787 bytes
+2023/04/01-19:15:27.665 445a7 Generated table #1643@1: 3677 keys, 2146907 bytes
+2023/04/01-19:15:27.692 445a7 Generated table #1644@1: 24343 keys, 2184642 bytes
+2023/04/01-19:15:27.733 445a7 Generated table #1645@1: 33323 keys, 2261673 bytes
+2023/04/01-19:15:27.772 445a7 Generated table #1646@1: 27760 keys, 2273414 bytes
+2023/04/01-19:15:27.811 445a7 Generated table #1647@1: 28541 keys, 2270316 bytes
+2023/04/01-19:15:27.849 445a7 Generated table #1648@1: 29566 keys, 2258262 bytes
+2023/04/01-19:15:27.881 445a7 Generated table #1649@1: 25740 keys, 2204411 bytes
+2023/04/01-19:15:27.881 445a7 Compacted 1@1 + 8@2 files => 17748412 bytes
+2023/04/01-19:15:27.885 445a7 compacted to: files[ 0 2 38 0 0 0 0 ]
+2023/04/01-19:15:27.885 445a7 Delete type=2 #1604
+2023/04/01-19:15:27.885 445a7 Delete type=2 #1607
+2023/04/01-19:15:27.885 445a7 Delete type=2 #1610
+2023/04/01-19:15:27.885 445a7 Delete type=2 #1606
+2023/04/01-19:15:27.885 445a7 Delete type=2 #1605
+2023/04/01-19:15:27.885 445a7 Delete type=2 #1608
+2023/04/01-19:15:27.885 445a7 Delete type=2 #1628
+2023/04/01-19:15:27.885 445a7 Delete type=2 #1611
+2023/04/01-19:15:27.885 445a7 Delete type=2 #1609
