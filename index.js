@@ -112,5 +112,6 @@ const commands = (client, message) => {
 }
 
 async function start(client) {
+    console.log("START BOT 🤖");
     client.onAnyMessage((message) => commands(client, message));
 }
