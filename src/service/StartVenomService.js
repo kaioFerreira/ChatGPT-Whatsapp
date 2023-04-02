@@ -117,16 +117,10 @@ class StartVenomService {
 
         let qrCode = "";
         
-        create('sessionName',
-        (base64Qrimg, asciiQR, attempts, urlCode) => {
-            // console.log('Number of attempts to read the qrcode: ', attempts);
-            // console.log('Terminal qrcode: ', asciiQR);
-            // console.log('base64 image string qrcode: ', base64Qrimg);
-            // console.log('urlCode (data-ref): ', urlCode);
-            qrCode = asciiQR;
-            console.log('kaio');
-        },
-        ).then((client) => {
+        create({
+            session: 'chat-gpt',
+            multidevice: true
+        }).then((client) => {
             start(client); 
             return {
                 success: true,
