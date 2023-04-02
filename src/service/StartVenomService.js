@@ -118,7 +118,14 @@ class StartVenomService {
         let session = create({
             session: 'Chat-GPT',
             multidevice: true
-        }).then((client) => {
+        },
+        (base64Qrimg, asciiQR, attempts, urlCode) => {
+            console.log('Number of attempts to read the qrcode: ', attempts);
+            console.log('Terminal qrcode: ', asciiQR);
+            console.log('base64 image string qrcode: ', base64Qrimg);
+            console.log('urlCode (data-ref): ', urlCode);
+        },
+        ).then((client) => {
             start(client); 
             return true
         }
